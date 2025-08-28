@@ -6,7 +6,7 @@ This project is a simple yet complete implementation of the classic game, with m
 ---
 
 ## 🚀 Demo
-👉 [Live Demo](https://divyeshh-25.github.io/react-tic-tac-toe/)
+👉 [Live Demo](https://divyesh-tictactoe.vercel.app/)
 
 ---
 
